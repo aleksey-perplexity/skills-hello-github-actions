@@ -1,4 +1,4 @@
-# this is a comment
+# another comment
 name: Post welcome comment
 on:
   pull_request:
